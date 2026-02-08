@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrikksSS
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
